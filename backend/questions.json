@@ -1,0 +1,44 @@
+[
+    {
+        "question": "Who is the author of The Bitcoin Standard?",
+        "answers": [
+            "Saifedean Ammous",
+            "Parker Lewis",
+            "Michael Saylor",
+            "Preston Pysh"
+        ],
+        "labels": [
+            "People"
+        ],
+        "difficulty": 0,
+        "answer": 0
+    },
+    {
+        "question": "Who invented Bitcoin?",
+        "answers": [
+            "Craig Wright",
+            "Vitalik Butrin",
+            "Satoshi Nakomoto",
+            "Elon Musk"
+        ],
+        "labels": [
+            "People"
+        ],
+        "difficulty": 0,
+        "answer": 2
+    },
+    {
+        "question": "Bitcoin uses ___ algorithm",
+        "answers": [
+            "Proof of Work",
+            "Proof of Stake",
+            "Proof of Keys",
+            "Proof of Bananas"
+        ],
+        "labels": [
+            "Bitcoin"
+        ],
+        "difficulty": 0,
+        "answer": 0
+    }
+]
